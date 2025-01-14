@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup as BS
 import requests
 #------------------- config -------------------------
 turn_pars = 1
-USERS = [199367693, 5106379352]
-API_TOKEN = '5867925253:AAGnYrpUB1Cw8S4yEuEtGl2iL0KGo5EWOiU'
+USERS = [admin users]
+API_TOKEN = 'token'
 ISKL = [0]
 
 
